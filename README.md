@@ -33,8 +33,12 @@ This is a work in progress.
 **Special thanks**
 - The Pillager Bay
 - Cracko298
-- Nawreq
+- Nawrek
 - Watermelon
 - ThorMode9
 - STBrian
 - The Minecraft 3DS Community
+- Minecraft Wiki
+- Other Ocean
+- 4J Studios
+- Mojang
