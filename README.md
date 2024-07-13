@@ -31,17 +31,10 @@ This is a work in progress.
 - [Pixlr](https://pixlr.com/x) - Image manipulation
 
 **Special thanks**
-
-The Pillager Bay
-
-Cracko298
-
-Nawreq
-
-Watermelon
-
-ThorMode9
-
-STBrian
-
-The Minecraft 3DS Community
+- The Pillager Bay
+- Cracko298
+- Nawreq
+- Watermelon
+- ThorMode9
+- STBrian
+- The Minecraft 3DS Community
