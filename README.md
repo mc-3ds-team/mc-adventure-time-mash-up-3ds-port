@@ -39,6 +39,7 @@ This is a work in progress.
 - Watermelon
 - ThorMode9
 - STBrian
+- DeadSkullzJr
 - The Minecraft 3DS Community
 - Minecraft Wiki
 - Other Ocean
