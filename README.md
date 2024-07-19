@@ -9,7 +9,7 @@ This is a work in progress.
 
 - **Terrain** - Almost done
 - **Items** - Almost done
-- **Skins** - Not done, working on it now
+- **Skins** - Will not do due to current limitations.
 - **Audio** - Not done, working on it now
 - **World** - Not done, will not do until a world conversion tool comes out.
 - **GUI** - Not done
