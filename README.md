@@ -10,9 +10,9 @@ This is a work in progress.
 - **Terrain** - Almost done
 - **Items** - Almost done
 - **Skins** - Will not do due to current limitations.
-- **Audio** - Not done, working on it now
-- **World** - Not done, will not do until a world conversion tool comes out.
-- **GUI** - Not done
+- **Audio** - Not done
+- **World** - Will not do until a world conversion tool comes out.
+- **GUI** - Not done, working on it now.
 - **Panorama** - Not done
 - **Entities** - Done
 - **Environment** - Done
