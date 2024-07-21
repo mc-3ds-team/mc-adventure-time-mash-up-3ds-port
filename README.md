@@ -19,6 +19,9 @@ This is a work in progress.
 - **Colormap** - Done
 - **Misc, Models, Painting, Particles, Flame Atlas** - Done
 
+## Screenshots
+!(Menu)[https://github.com/susbaconhairman/mc-adventure-time-mash-up-3ds-port/blob/main/images/menu.png?raw=true]
+
 ## Credits
 
 **Things used:**
@@ -31,6 +34,7 @@ This is a work in progress.
 - [hShop](https://hshop.erista.me) - Wonderful place where I got Minecraft 3DS CIAs
 - [Piskel](https://piskelapp.com) - Image manipulation
 - [Pixlr](https://pixlr.com/x) - Image manipulation
+- [Redketchup](https://redketchup.io) - (Bulk) Image compression, cropping, and resizing.
 - ["How to Make Your Own Menu Panorama! (Bedrock Edition)" - YouTube](https://www.youtube.com/watch?v=fOLRL8HNHuA) - How to make panoramas (for the nether)
 
 **People who helped me**
