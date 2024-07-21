@@ -40,6 +40,7 @@ This is a work in progress.
 - ThorMode9
 - STBrian
 - DeadSkullzJr
+- czx
 - The Minecraft 3DS Community
 - Minecraft Wiki
 - Other Ocean
