@@ -21,7 +21,7 @@ This is a work in progress.
 
 ## Credits
 
-**Tools used:**
+**Things used:**
 - [Ohana 3DS](https://gbatemp.net/attachments/ohana3ds-zip.99223/) - Converting images to 3DST
 - [MC 3DS Texture Maker](https://github.com/STBrian/MC3DS-Texture-Maker) - Bulk conversions for making Blocks and Items (atlases)
 - [Pinetools Bulk Image Flipper](https://pinetools.com/bulk-batch-flip-image) - Vertically flipping images for converting to 3DST
@@ -31,8 +31,9 @@ This is a work in progress.
 - [hShop](https://hshop.erista.me) - Wonderful place where I got Minecraft 3DS CIAs
 - [Piskel](https://piskelapp.com) - Image manipulation
 - [Pixlr](https://pixlr.com/x) - Image manipulation
+- ["How to Make Your Own Menu Panorama! (Bedrock Edition)" - YouTube](https://www.youtube.com/watch?v=fOLRL8HNHuA) - How to make panoramas (for the nether)
 
-**Special thanks**
+**People who helped me**
 - The Pillager Bay
 - Cracko298
 - Nawrek
