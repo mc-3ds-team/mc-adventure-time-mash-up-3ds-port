@@ -13,7 +13,7 @@ This is a work in progress.
 - **Audio** - Not done
 - **World** - Will not do until a world conversion tool comes out.
 - **GUI** - Not done, working on it now.
-- **Panorama** - Not done
+- **Panorama** - Done
 - **Entities** - Done
 - **Environment** - Done
 - **Colormap** - Done
