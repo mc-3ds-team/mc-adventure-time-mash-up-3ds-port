@@ -36,6 +36,7 @@ This is a work in progress.
 - [Pixlr](https://pixlr.com/x) - Image manipulation
 - [Redketchup](https://redketchup.io) - (Bulk) Image compression, cropping, and resizing.
 - ["How to Make Your Own Menu Panorama! (Bedrock Edition)" - YouTube](https://www.youtube.com/watch?v=fOLRL8HNHuA) - How to make panoramas (for the nether)
+- [MC3DS-BJSON-Editor](https://github.com/STBrian/MC3DS-BJSON-Editor)
 
 **People who helped me**
 - The Pillager Bay
