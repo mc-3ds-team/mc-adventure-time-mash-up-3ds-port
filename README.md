@@ -22,9 +22,9 @@ This is a work in progress.
 ## Screenshots
 ![Menu](https://github.com/susbaconhairman/mc-adventure-time-mash-up-3ds-port/blob/main/images/menu.png?raw=true)
 
-## Limitations
+## Limitations/Changes
 
-- Boss progress bar is cut off at the top because the atlas for it dosesn't have enough space for the full thing.
+- Boss progress bar is cut off at the top because the atlas for it dosesn't have enough space for the full thing. I have also stretched it out to span the entire length of the bar in the atlas.
 
 ## Credits
 
