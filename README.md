@@ -25,6 +25,10 @@ This is a work in progress.
 ## Limitations/Changes
 
 - Boss progress bar is cut off at the top because the atlas for it dosesn't have enough space for the full thing. I have also stretched it out to span the entire length of the bar in the atlas.
+- Bubbles in spritesheet.3dst were too big, so the individual bubbles were moved around a bit to fit the space, and some had pixels added/removed. Nothing was resized.
+- Mechanism sprite in spritesheet.3dst had to be modified and resized to fit the space specified for it in the sheet.
+- Building blocks sprite from the Creative Mode inventory menu in the Legacy Console version of the texture pack wasn't able to be used as it's too small, and too big when properly upscaled, a larger recreation of it was made for spritesheet.3dst.
+- Chest icon in spritesheet.3dst was taken from a screenshot of a chest in the inventory of the Wii U edition.
 
 ## Credits
 
