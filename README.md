@@ -28,7 +28,7 @@ This is a work in progress.
 - Bubbles in spritesheet.3dst were too big, so the individual bubbles were moved around a bit to fit the space, and some had pixels added/removed. Nothing was resized.
 - Mechanism sprite in spritesheet.3dst had to be modified and resized to fit the space specified for it in the sheet.
 - Chest icon in spritesheet.3dst was taken from a screenshot of a chest in the inventory of the Wii U edition.
-- 
+- Hotbar selection in spritesheet.3dst was modified to properly display in game.
 
 ## Credits
 
