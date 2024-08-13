@@ -30,7 +30,7 @@ This is a work in progress.
 - Hotbar selection in spritesheet.3dst was modified to properly display in game.
 - Eyes, mouth, and keyhole in achievement lock icon were shifted because the lock was resized to 48x48.
 - Most images in achievements.3dst came from the Wii U Edition's achievements.
-- Some of the images in achievements.3dst are resized older images of themselves as they didnt exist anywhere else.
+- Some of the images in achievements.3dst are resized older images of themselves in the 3DS's achievements as they didnt exist anywhere else.
 
 ## Credits
 
