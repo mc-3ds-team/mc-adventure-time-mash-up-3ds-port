@@ -12,7 +12,7 @@ This is a work in progress.
 - **Skins** - Will not do due to current limitations.
 - **Audio** - Not done
 - **World** - Will not do until a world conversion tool comes out.
-- **GUI** - Not done, working on it now.
+- **GUI** - Half-way done
 - **Panorama** - Done
 - **Entities** - Done
 - **Environment** - Done
