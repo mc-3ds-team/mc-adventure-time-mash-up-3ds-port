@@ -1,4 +1,4 @@
-# Minecraft Adventure Time Mash-Up Minecraft: New Nintendo 3DS Edition Port
+# Minecraft Adventure Time Mash-Up - Minecraft: New Nintendo 3DS Edition Port
 Adventure Time Mash-Up port to Minecraft: New Nintendo 3DS Edition.
 
 ![Promo image](https://github.com/susbaconhairman/mc-adventure-time-mash-up-3ds-port/blob/main/images/promo.png?raw=true)
