@@ -17,7 +17,7 @@ This is a work in progress.
 - **Entities** - Done
 - **Environment** - Done
 - **Colormap** - Done
-- **Misc, Models, Painting, Particles, Flame Atlas** - Done
+- **Misc - Models, Painting, Particles, Flame Atlas** - Done
 
 ## Screenshots
 ![Menu](https://github.com/susbaconhairman/mc-adventure-time-mash-up-3ds-port/blob/main/images/menu.png?raw=true)
