@@ -32,6 +32,7 @@ This is a work in progress.
 - Most images in achievements.3dst came from the Wii U Edition's achievements.
 - Some of the images in achievements.3dst are resized older images of themselves in the 3DS's achievements as they didnt exist anywhere else.
 - Hotbar and inventory backgrounds are the same sprite in spritesheets.3dst, so the Adventure Time Mash-Up hotbar can't be in the game.
+- Scrollbar has to be a rectangle in the spritesheet, so it can't be round, like in Legacy.
 
 ## Credits
 
