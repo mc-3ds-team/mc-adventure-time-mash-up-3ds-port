@@ -24,6 +24,8 @@ This is a work in progress.
 
 ## Limitations/Changes
 
+There are a lot of limitations, because the way Minecraft 3DS renders things and has stuff set up is different than anything else (sucks).
+
 - Boss progress bar is cut off at the top because the atlas for it dosesn't have enough space for the full thing. I have also stretched it out to span the entire length of the bar in the atlas.
 - Bubbles in spritesheet.3dst were too big, so the individual bubbles were moved around a bit to fit the space, and some had pixels added/removed. Nothing was resized.
 - Mechanism sprite in spritesheet.3dst had to be modified and resized to fit the space specified for it in the sheet.
