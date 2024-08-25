@@ -55,7 +55,7 @@ There are a lot of limitations, because the way Minecraft 3DS renders things and
 - [Citra](https://github.com/PabloMK7/citra) - 3DS emulator, used for testing
 - [Wii U Downloader](https://github.com/Xpl0itU/WiiUDownloader) - Got Minecraft Wii U Edition from here
 
-**People who helped me**
+**Names**
 - The Pillager Bay
 - Cracko298
 - Nawrek
