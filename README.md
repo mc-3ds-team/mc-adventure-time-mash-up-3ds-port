@@ -55,6 +55,7 @@ There are a lot of limitations, because the way Minecraft 3DS renders things and
 - [Cemu](https://cemu.info/) - Used for dumping textures and as a reference for the port
 - [Citra](https://github.com/PabloMK7/citra) - 3DS emulator, used for testing
 - [Wii U Downloader](https://github.com/Xpl0itU/WiiUDownloader) - Got Minecraft Wii U Edition from here
+- [GIMP Grass Colorizer Script](https://github.com/mc-3ds-team/GIMP-Grass-Colorizer-Script) - Colorized grass with this
 
 **Names**
 - The Pillager Bay
@@ -71,3 +72,4 @@ There are a lot of limitations, because the way Minecraft 3DS renders things and
 - 4J Studios
 - Mojang
 - TheRustico
+-SeveringHams
