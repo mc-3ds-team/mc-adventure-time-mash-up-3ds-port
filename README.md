@@ -56,6 +56,7 @@ There are a lot of limitations, because the way Minecraft 3DS renders things and
 - [Citra](https://github.com/PabloMK7/citra) - 3DS emulator, used for testing
 - [Wii U Downloader](https://github.com/Xpl0itU/WiiUDownloader) - Got Minecraft Wii U Edition from here
 - [GIMP Grass Colorizer Script](https://github.com/mc-3ds-team/GIMP-Grass-Colorizer-Script) - Colorized grass with this
+- [GIMP](https://www.gimp.org/) - Image manipulation
 
 **Names**
 - The Pillager Bay
