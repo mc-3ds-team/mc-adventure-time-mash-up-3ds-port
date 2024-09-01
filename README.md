@@ -7,8 +7,8 @@ This is a work in progress.
 
 ## Progress
 
-- **Terrain** - Almost done
-- **Items** - Almost done
+- **Terrain** - Done
+- **Items** - Done
 - **Skins** - Will not do due to current limitations.
 - **Audio** - Not done
 - **World** - Will not do until a world conversion tool comes out.
