@@ -57,6 +57,7 @@ There are a lot of limitations, because the way Minecraft 3DS renders things and
 - [Wii U Downloader](https://github.com/Xpl0itU/WiiUDownloader) - Got Minecraft Wii U Edition from here
 - [GIMP Grass Colorizer Script](https://github.com/mc-3ds-team/GIMP-Grass-Colorizer-Script) - Colorized grass with this
 - [GIMP](https://www.gimp.org/) - Image manipulation
+- MIP-BMP-TO-3DST - Mipmapping for terrain atlas
 
 **Names**
 - The Pillager Bay
@@ -73,4 +74,4 @@ There are a lot of limitations, because the way Minecraft 3DS renders things and
 - 4J Studios
 - Mojang
 - TheRustico
--SeveringHams
+- SeveringHams
