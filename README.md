@@ -36,6 +36,7 @@ There are a lot of limitations, because the way Minecraft 3DS renders things and
 - Hotbar and inventory backgrounds are the same sprite in spritesheets.3dst, so the Adventure Time Mash-Up hotbar can't be in the game.
 - Scrollbar has to be a rectangle in the spritesheet, so it can't be round, like in Legacy.
 - For some reason, the slider button and bottom screen inventory, crafting, and pasue buttons have the same sprite in the sprietsheet. So the slider button is not the one from the pack, it is darker, so those menu buttons can be darker.
+- In the beacon menu, all the effect icons and buttons are stretched out and look like crap, because that's just how the game renders them.
 
 ## Credits
 
