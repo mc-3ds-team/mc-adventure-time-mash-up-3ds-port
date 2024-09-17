@@ -59,6 +59,7 @@ There are a lot of limitations, because the way Minecraft 3DS renders things and
 - [GIMP Grass Colorizer Script](https://github.com/mc-3ds-team/GIMP-Grass-Colorizer-Script) - Colorized grass with this
 - [GIMP](https://www.gimp.org/) - Image manipulation
 - MIP-BMP-TO-3DST - Mipmapping for terrain atlas
+- [BIMP](https://github.com/alessandrofrancesconi/gimp-plugin-bimp) - Bulk image tools for GIMP
 
 **Names**
 - The Pillager Bay
