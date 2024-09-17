@@ -7,12 +7,12 @@ This is a work in progress.
 
 ## Progress
 
-- **Terrain** - Done
+- **Terrain/Blocks** - Done
 - **Items** - Done
 - **Skins** - Will not do due to current limitations.
-- **Audio** - Not done
+- **Audio** - Working on it
 - **World** - Will not do until a world conversion tool comes out.
-- **GUI** - Almost done
+- **GUI** - Done
 - **Panorama** - Done
 - **Entities** - Done
 - **Environment** - Done
